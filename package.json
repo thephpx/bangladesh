@@ -7,6 +7,11 @@
     "bangladesh",
     "geocode"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/thephpx/bangladesh.git"
+  },
+  "homepage": "https://github.com/thephpx/bangladesh#readme",
   "author": "Faisal Ahmed <thephpx@gmail.com>",
   "license": "MIT"
 }
